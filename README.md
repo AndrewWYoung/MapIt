@@ -5,7 +5,9 @@ A simple script that searches Google Maps based on command line arguments or wha
 In the command line...
 
 python MapIt.py
+
 to search Google Maps with an address copied to your clipboard
 
 python MapIt.py Atlanta CNN
+
 to search Google Maps for the CNN building in Atlanta.
